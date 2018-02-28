@@ -1,0 +1,43 @@
+#Red {
+  color: red;
+}
+.Orange {
+  color: rgb(255, 127, 0);
+}
+div p.Yellow {
+  color: #ffff00;
+}
+div p#Green {
+  color: #00FF00;
+}
+div#bgElement{
+  width: 200px;
+  height: 200px;
+  background: #d7d7d7;
+}
+div p#blue{
+  color: blue;
+}
+div.bgElement2{
+  width: 100px;
+  height: 100px;
+  background: rgb(64,64,64);
+  opacity: 0.4;
+}
+div p#white{
+  color: white;
+}
+div#bg{
+  width: 300px;
+  height: 300px;
+  background-image: url('background.jpg');
+}
+div p.bord {
+  border: 2px solid green;
+  border-color: yellow green black red;
+  border-style: dotted solid dashed;
+  border-width: 2px 5px 7px;
+  margin: 10px 20px;
+  padding: 15px 25px;
+  border-radius: 25px;
+}
